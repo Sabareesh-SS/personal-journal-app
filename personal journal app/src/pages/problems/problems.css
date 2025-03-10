@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    padding: 12px;
+    border: 2px solid #f0f0f0;
+  }
+  
+  th {
+    background: #fcb69f;
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  

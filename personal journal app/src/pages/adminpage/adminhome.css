@@ -1,0 +1,47 @@
+
+  h2 {
+    text-align: center;
+  }
+  
+  table {
+    margin-left: 15%;
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    padding: 12px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  th {
+    background: #fcb69f;
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  td{
+    text-align: left;
+  }
+  
+  button {
+    background-color: #fcb69f;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 15px;
+  }
+  
+.btn{
+  margin-left: 45%;
+}
